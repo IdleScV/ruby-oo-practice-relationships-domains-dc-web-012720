@@ -35,7 +35,7 @@ Create the necessary methods to connect these classes.
   - returns all rides a driver has made
 - .all
   - returns an array of all drivers
-- .mileage_cap(distance)
+- 
   - takes an argument of a distance (float) and returns all drivers who have exceeded that mileage
 
 #### Ride
